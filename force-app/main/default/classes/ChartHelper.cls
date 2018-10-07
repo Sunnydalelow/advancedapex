@@ -9,10 +9,11 @@ public without sharing class ChartHelper {
                                           WHERE Quantity_Remaining__c > 0 AND isActive = true GROUP BY Family]){
                                               
                cht.add(new ChartData(String.ValueOf(chartData.get('Family')), Integer.ValueOf(chartData.get('expr0'))));
-                                                                             
+                                                                           
              }
 	
         return cht;
+        //This is a new comment
     }
 
     public class ChartData {
