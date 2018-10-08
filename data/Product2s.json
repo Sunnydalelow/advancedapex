@@ -1,0 +1,134 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "Pizza",
+            "Family": "Entree",
+            "Initial_Inventory__c": 25,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "Garlic Bread",
+            "Family": "Side",
+            "Initial_Inventory__c": 20,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Chocolate Cake",
+            "Family": "Dessert",
+            "Initial_Inventory__c": 15,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "Coconut Water",
+            "Family": "Beverage",
+            "Initial_Inventory__c": 10,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "Hamburger",
+            "Family": "Entree",
+            "Initial_Inventory__c": 25,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "French Fries",
+            "Family": "Side",
+            "Initial_Inventory__c": 20,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "Carrot Cake",
+            "Family": "Dessert",
+            "Initial_Inventory__c": 15,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "Lemonade",
+            "Family": "Beverage",
+            "Initial_Inventory__c": 10,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref9"
+            },
+            "Name": "Hot Dog",
+            "Family": "Entree",
+            "Initial_Inventory__c": 25,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref10"
+            },
+            "Name": "Onion Rings",
+            "Family": "Side",
+            "Initial_Inventory__c": 20,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref11"
+            },
+            "Name": "Jello",
+            "Family": "Dessert",
+            "Initial_Inventory__c": 15,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref12"
+            },
+            "Name": "Iced Tea",
+            "Family": "Beverage",
+            "Initial_Inventory__c": 10,
+            "Quantity_Ordered__c": 0
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref13"
+            },
+            "Name": "dfgdf",
+            "Family": "Entree",
+            "Initial_Inventory__c": 50,
+            "Quantity_Ordered__c": 0
+        }
+    ]
+}
