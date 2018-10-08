@@ -13,7 +13,7 @@ public without sharing class ChartHelper {
              }
 	
         return cht;
-        //This is a new comment
+        
     }
 
     public class ChartData {

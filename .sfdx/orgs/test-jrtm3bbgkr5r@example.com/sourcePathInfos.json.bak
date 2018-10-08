@@ -1,0 +1,2493 @@
+[
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538942007495,
+            "changeTime": 1538942007495,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538942007499,
+            "changeTime": 1538942007499,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1538957460255,
+            "changeTime": 1538957460255,
+            "isWorkspace": false,
+            "contentHash": "80317cd909ae14814bf80ea65826b7d5d99090f3"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538954901454,
+            "changeTime": 1538954901454,
+            "contentHash": "c864a2d6c77cc969d1151247fa6bad5359ccdc2a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941914185,
+            "changeTime": 1538941914185,
+            "contentHash": "93dbfffbd222645cd2c66962644dbeb39e61065b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US/Inventory_Setting__mdt-en_US.objectTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US/Inventory_Setting__mdt-en_US.objectTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1538941914184,
+            "changeTime": 1538941914184,
+            "contentHash": "3708ff1a0177c6964057aa126d3b6df034498f1d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US/Low_Quantity_Alert__c.fieldTranslation-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objectTranslations/Inventory_Setting__mdt-en_US/Low_Quantity_Alert__c.fieldTranslation-meta.xml",
+            "isDirectory": false,
+            "size": 224,
+            "modifiedTime": 1538941914185,
+            "changeTime": 1538941914185,
+            "contentHash": "fe4c32d14f2c1e54f4b998654b7a088d4810bb18",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538954986066,
+            "changeTime": 1538954986066,
+            "contentHash": "275280cb47c564352ea05c8cb903dbc43051b212",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941914834,
+            "changeTime": 1538941914834,
+            "contentHash": "3d214971bb13b399fa4b0461a29253114d4ebac0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/Inventory_Setting__mdt.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/Inventory_Setting__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1538941914833,
+            "changeTime": 1538941914833,
+            "contentHash": "5108b8b68313c075bba273d9ae288073ce74fab5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538941914834,
+            "changeTime": 1538941914834,
+            "contentHash": "4e50a67599fad1c50ab84abd33f8e124324a0d60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/fields/Low_Quantity_Alert__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Inventory_Setting__mdt/fields/Low_Quantity_Alert__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 434,
+            "modifiedTime": 1538941914835,
+            "changeTime": 1538941914835,
+            "contentHash": "0fbd75b7f84f6a0a1369030fc8e65f29b34743ad",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538941914953,
+            "changeTime": 1538941914953,
+            "contentHash": "1b3d38146dcaa55a341bcd2d7d571362e39b719c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "size": 2820,
+            "modifiedTime": 1538941914932,
+            "changeTime": 1538941914932,
+            "contentHash": "b1be8e740e8517b3bb78bf5aa52755122f2c23b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 800,
+            "modifiedTime": 1538941914947,
+            "changeTime": 1538941914947,
+            "contentHash": "b8ac57a5baca25a39215f49aa073cde93603ff05",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 263,
+            "modifiedTime": 1538941914932,
+            "changeTime": 1538941914932,
+            "contentHash": "ddead8196b7c0d8801a4c4bed2df0350671bfdc9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+            "isDirectory": false,
+            "size": 235,
+            "modifiedTime": 1538941914932,
+            "changeTime": 1538941914932,
+            "contentHash": "6b047905b443336cbd4b456b7a9b5710a8ef1322",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1538941914933,
+            "changeTime": 1538941914933,
+            "contentHash": "191443ccf3cbba59279c7d49bf01214ea1a7e126",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1538941914933,
+            "changeTime": 1538941914933,
+            "contentHash": "f221ca916214fcd9dbc1aa44904a6238859fa72c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1538941914933,
+            "changeTime": 1538941914933,
+            "contentHash": "fc50b01b7ef9c40a27e44c3dc5d045d44480ba29",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CurrentGenerators__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/CurrentGenerators__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1538941914934,
+            "changeTime": 1538941914934,
+            "contentHash": "5a3dff7c9dc1dac3fe30c57d612259cf9f5aae3f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/DeliveryInstallationStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/DeliveryInstallationStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1044,
+            "modifiedTime": 1538941914934,
+            "changeTime": 1538941914934,
+            "contentHash": "b0d65bb3dcd57f55c816205a36db507bf8ebb5f2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1538941914935,
+            "changeTime": 1538941914935,
+            "contentHash": "369f2d2dd9aa349900ec2a07e00fb7162b29fd09",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1538941914937,
+            "changeTime": 1538941914937,
+            "contentHash": "283266ae9750053442bbc4eb4bd7f2c127e2ca06",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1538941914938,
+            "changeTime": 1538941914938,
+            "contentHash": "ef86ca1575d71d6f8bb7c0163b84d0ef2d85ff0b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1538941914939,
+            "changeTime": 1538941914939,
+            "contentHash": "d0db908a59ce86178ed22e786980e8dcadb4c0e3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "size": 266,
+            "modifiedTime": 1538941914941,
+            "changeTime": 1538941914941,
+            "contentHash": "ac5c4a94f4c5f9bd38d5c1d14aae2b54a9c5a81c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/MainCompetitors__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/MainCompetitors__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1538941914942,
+            "changeTime": 1538941914942,
+            "contentHash": "218f5d5794de24bc73d74f266d543aca0a402b99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1538941914943,
+            "changeTime": 1538941914943,
+            "contentHash": "9c1be91bb523a012d59b8f4703f7a106d6428159",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+            "isDirectory": false,
+            "size": 238,
+            "modifiedTime": 1538941914943,
+            "changeTime": 1538941914943,
+            "contentHash": "8344a7bca864fc59bcc6597ccb36f9308e2ad65c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/OrderNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/OrderNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1538941914944,
+            "changeTime": 1538941914944,
+            "contentHash": "b4b96527ba58e8b492c3eed6dcf6cb7829b04a15",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1538941914944,
+            "changeTime": 1538941914944,
+            "contentHash": "3fcc4be59ff087e527b687e721d8811e92c33e62",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1538941914945,
+            "changeTime": 1538941914945,
+            "contentHash": "6073cd45908669eb1d6de72919f5d8c1f5d2f5cf",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1538941914945,
+            "changeTime": 1538941914945,
+            "contentHash": "707fdee35ab4b79a69c635443db77c70948a5910",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+            "isDirectory": false,
+            "size": 264,
+            "modifiedTime": 1538941914946,
+            "changeTime": 1538941914946,
+            "contentHash": "cc69df14543885c7f3b123dc0ca9bf36d5cccae3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1538941914946,
+            "changeTime": 1538941914946,
+            "contentHash": "b32b34c36eedceeb68877bf7527e493bee0eb943",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/TrackingNumber__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/TrackingNumber__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1538941914947,
+            "changeTime": 1538941914947,
+            "contentHash": "3280d07c1c635a7c83472e497e1b7ac226e4bcbe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 260,
+            "modifiedTime": 1538941914947,
+            "changeTime": 1538941914947,
+            "contentHash": "2ccbfa9b889937d3f267d8553b18ee9d565af57f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1538941914952,
+            "changeTime": 1538941914952,
+            "contentHash": "f60a4eb7b764748f6a0390881503a840a78a49fa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 231,
+            "modifiedTime": 1538941914948,
+            "changeTime": 1538941914948,
+            "contentHash": "20f2a33f2464528dc6c5c089c8a952060bc0f54a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1538941914949,
+            "changeTime": 1538941914949,
+            "contentHash": "f0383c008c94343de15cdc98da97742742b5caf9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1538941914949,
+            "changeTime": 1538941914949,
+            "contentHash": "1794a9b10f43de449b63303697f638fc8e871fb8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1538941914950,
+            "changeTime": 1538941914950,
+            "contentHash": "8685d5a6347d01b4786db45bf82afc9b02473c20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1538941914950,
+            "changeTime": 1538941914950,
+            "contentHash": "68e0b304bb7dee4933c9a05817ce5af6e6085adb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/NewLastWeek.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/NewLastWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1538941914951,
+            "changeTime": 1538941914951,
+            "contentHash": "eab2c4b78f33f28122b715f48458892470634d2e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1538941914951,
+            "changeTime": 1538941914951,
+            "contentHash": "0a5de62c34900aaeb2787bb16111ddd9675bf864",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Private.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Private.listView-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1538941914952,
+            "changeTime": 1538941914952,
+            "contentHash": "9f7404ae7b2b45b63c95013c01d31e0bb414575c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1538941914952,
+            "changeTime": 1538941914952,
+            "contentHash": "52f9faa8c4cba8db533331ed2908069a0d47cbf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/webLinks",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/webLinks",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538941914953,
+            "changeTime": 1538941914953,
+            "contentHash": "0b99d9b421457b7c5658f12fe12433012c3a38f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/webLinks/DeliveryStatus.webLink-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Opportunity/webLinks/DeliveryStatus.webLink-meta.xml",
+            "isDirectory": false,
+            "size": 833,
+            "modifiedTime": 1538941914953,
+            "changeTime": 1538941914953,
+            "contentHash": "2b32aaaf0f142a5b7e7c4ca3497b7b4fc07e3866",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941914980,
+            "changeTime": 1538941914980,
+            "contentHash": "cc0a3bf36ae1627cb233f08b9128fc34de564392",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/OpportunityLineItem.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/OpportunityLineItem.object-meta.xml",
+            "isDirectory": false,
+            "size": 1152,
+            "modifiedTime": 1538941914979,
+            "changeTime": 1538941914979,
+            "contentHash": "78f48c383d3ede7d652666c28f2de310e9ceb228",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1538941914983,
+            "changeTime": 1538941914983,
+            "contentHash": "33a69d4b3348821cfe096c04f26caa8dac086475",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941914980,
+            "changeTime": 1538941914980,
+            "contentHash": "414587265a2c699d549368921b31b19910ccf5c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Discount.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Discount.field-meta.xml",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1538941914981,
+            "changeTime": 1538941914981,
+            "contentHash": "5a6b9c77c0da89108d05c3c6e41cbe56b5127c27",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ListPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ListPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 151,
+            "modifiedTime": 1538941914981,
+            "changeTime": 1538941914981,
+            "contentHash": "6b7f65265769d828da99c68c292617b2fd033779",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/OpportunityId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/OpportunityId.field-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1538941914981,
+            "changeTime": 1538941914981,
+            "contentHash": "1a35484a7dd6e0e25ece5d61712ccd19710ff48c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Product2Id.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1538941914982,
+            "changeTime": 1538941914982,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ProductCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941914982,
+            "changeTime": 1538941914982,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Quantity.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Quantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1538941914982,
+            "changeTime": 1538941914982,
+            "contentHash": "e22808bcf5310509136dc5eea1aa106e23ab5993",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ServiceDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/ServiceDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941914982,
+            "changeTime": 1538941914982,
+            "contentHash": "9b1636ace540e35f7c91d6705fd5ace315a1c066",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Subtotal.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/Subtotal.field-meta.xml",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1538941914983,
+            "changeTime": 1538941914983,
+            "contentHash": "9e7c7347c8b6b0f896bd62b6207d68c63cddfcf8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/TotalPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/TotalPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 152,
+            "modifiedTime": 1538941914983,
+            "changeTime": 1538941914983,
+            "contentHash": "aa06683ac2730c73468b20024034ec8731759bc6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/UnitPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OpportunityLineItem/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 151,
+            "modifiedTime": 1538941914983,
+            "changeTime": 1538941914983,
+            "contentHash": "9cba5268d3bcb288cf9c46632e8a7de63a569746",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1538941915017,
+            "changeTime": 1538941915017,
+            "contentHash": "a754df806403a1f195d9e51e6bbd9c0952065428",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/Order.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/Order.object-meta.xml",
+            "isDirectory": false,
+            "size": 3204,
+            "modifiedTime": 1538941915005,
+            "changeTime": 1538941915005,
+            "contentHash": "33f582ad5c2b713c9895560f4e23ac9d0b3fcb1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields",
+            "isDirectory": true,
+            "size": 960,
+            "modifiedTime": 1538941915016,
+            "changeTime": 1538941915016,
+            "contentHash": "73e0ac0763fba0111fa387ce5bce11aecc235fe2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/AccountId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1538941915006,
+            "changeTime": 1538941915006,
+            "contentHash": "bbc48dd990ee01ea22e78922a8a9d027037450f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/AccountNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1538941915006,
+            "changeTime": 1538941915006,
+            "contentHash": "1bb6eeec45acc4c261033a8618c774bbf8d3d13d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ActivatedById.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ActivatedById.field-meta.xml",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1538941915007,
+            "changeTime": 1538941915007,
+            "contentHash": "82beff33fe3b680b3be1002c1f4e43dff595a85c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ActivatedDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ActivatedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1538941915007,
+            "changeTime": 1538941915007,
+            "contentHash": "095614642f21444f5cdab290610837b5aeb4ca81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/BillToContactId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/BillToContactId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1538941915007,
+            "changeTime": 1538941915007,
+            "contentHash": "807772f93d8faf9acfd062c8c431f18f9552591b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/BillingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1538941915008,
+            "changeTime": 1538941915008,
+            "contentHash": "188543be0ef836052eee07caecfe1c156612be14",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CompanyAuthorizedById.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CompanyAuthorizedById.field-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1538941915009,
+            "changeTime": 1538941915009,
+            "contentHash": "73ad1a091c2761917e1ff91c6ac85544b6b3914b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CompanyAuthorizedDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CompanyAuthorizedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1538941915010,
+            "changeTime": 1538941915010,
+            "contentHash": "a9fe9cd848fcd806e9ea7b27b91f65d481ac4ced",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractEndDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractEndDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1538941915010,
+            "changeTime": 1538941915010,
+            "contentHash": "9df1b557914cc86fa440001482b8a9553a6702a3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1538941915010,
+            "changeTime": 1538941915010,
+            "contentHash": "ee0169398662c39edd2f6976eb3956a518a6c447",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractName.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ContractName.field-meta.xml",
+            "isDirectory": false,
+            "size": 154,
+            "modifiedTime": 1538941915011,
+            "changeTime": 1538941915011,
+            "contentHash": "84a50e0d2a66bcbb6be939ce103a9910fc3fab93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CustomerAuthorizedById.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CustomerAuthorizedById.field-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1538941915011,
+            "changeTime": 1538941915011,
+            "contentHash": "e9a3c0cad36b10367b77c26c681a45d24ef0e0fc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CustomerAuthorizedDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/CustomerAuthorizedDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1538941915011,
+            "changeTime": 1538941915011,
+            "contentHash": "d2001d96a19fe914100b1e4fe2087b0c91a64487",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1538941915012,
+            "changeTime": 1538941915012,
+            "contentHash": "7531d10e8ad259792e3aa0a47a4b28467b3cff8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/EffectiveDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/EffectiveDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1538941915012,
+            "changeTime": 1538941915012,
+            "contentHash": "1ff7a3bab7a4a90ee0bb4e43ce05dc2854292af0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/EndDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/EndDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1538941915012,
+            "changeTime": 1538941915012,
+            "contentHash": "4eb1e112b03a87b8b7c7ab3f24d9dbcdcf7a6570",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/IsReductionOrder.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/IsReductionOrder.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1538941915013,
+            "changeTime": 1538941915013,
+            "contentHash": "78d56b566be89c6a311f2a73675f7c617629c56f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1538941915013,
+            "changeTime": 1538941915013,
+            "contentHash": "8c663b772d523d88e0da6fbd6ae24d28bb48bb93",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OpportunityId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OpportunityId.field-meta.xml",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1538941915013,
+            "changeTime": 1538941915013,
+            "contentHash": "6f4e41add7ddaf2e7bf3234c8a27a685e9a4ecf1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OrderReferenceNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OrderReferenceNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1538941915014,
+            "changeTime": 1538941915014,
+            "contentHash": "7cf19520a8314a36d73b01628ad627582337aedc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OriginalOrderId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OriginalOrderId.field-meta.xml",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1538941915014,
+            "changeTime": 1538941915014,
+            "contentHash": "bf638dbf97880900c34398076c0f131e6a89fb35",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OwnerId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "size": 212,
+            "modifiedTime": 1538941915014,
+            "changeTime": 1538941915014,
+            "contentHash": "3ca51b7db67343442d0910383a1008e625f90db4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/PoDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/PoDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1538941915014,
+            "changeTime": 1538941915014,
+            "contentHash": "b8678c901d748b15b93f2e5bb71ce90686e7656d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/PoNumber.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/PoNumber.field-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1538941915015,
+            "changeTime": 1538941915015,
+            "contentHash": "153665d4ae00384ab97c84470dce2af60feca4c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ShipToContactId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ShipToContactId.field-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1538941915015,
+            "changeTime": 1538941915015,
+            "contentHash": "a938f478731265afa7ac9529e132ce8dc66f5dff",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ShippingAddress.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1538941915016,
+            "changeTime": 1538941915016,
+            "contentHash": "d7b2a8544ec4e11a8d63bba5714eabe48befa4dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/TotalAmount.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/TotalAmount.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941915016,
+            "changeTime": 1538941915016,
+            "contentHash": "0747ce4e17b7a37e2900ffddece756a166e266f5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Type.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1538941915016,
+            "changeTime": 1538941915016,
+            "contentHash": "384c51e00323bded4b0929e2e56f315288e66451",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1538941915017,
+            "changeTime": 1538941915017,
+            "contentHash": "7f37ae370386adc61b0c4b8744e8eb5535d4da7d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllActivatedOrders.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllActivatedOrders.listView-meta.xml",
+            "isDirectory": false,
+            "size": 370,
+            "modifiedTime": 1538941915017,
+            "changeTime": 1538941915017,
+            "contentHash": "f85c59580bcf703a6f117093dfdc91ffb0c6be3b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllDraftOrders.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllDraftOrders.listView-meta.xml",
+            "isDirectory": false,
+            "size": 362,
+            "modifiedTime": 1538941915017,
+            "changeTime": 1538941915017,
+            "contentHash": "c2c9b4e895769535025f54f8f859b856ceefbbbb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllOrders.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Order/listViews/AllOrders.listView-meta.xml",
+            "isDirectory": false,
+            "size": 217,
+            "modifiedTime": 1538941915017,
+            "changeTime": 1538941915017,
+            "contentHash": "f41f2dd99f090564c00f43ecd5370e4bc9a48157",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941915046,
+            "changeTime": 1538941915046,
+            "contentHash": "4b9666dbe3f18b72631fa6aad1378cc94be29d8f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/OrderItem.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/OrderItem.object-meta.xml",
+            "isDirectory": false,
+            "size": 1029,
+            "modifiedTime": 1538941915045,
+            "changeTime": 1538941915045,
+            "contentHash": "41715ecb08a19f5582dc4f1c21721aa2326701e0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields",
+            "isDirectory": true,
+            "size": 448,
+            "modifiedTime": 1538941915051,
+            "changeTime": 1538941915051,
+            "contentHash": "8b06a3e3e7fad8c798a744bb4b3dcd8dffc94868",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/AvailableQuantity.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/AvailableQuantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 159,
+            "modifiedTime": 1538941915046,
+            "changeTime": 1538941915046,
+            "contentHash": "1cd86bded6ac303e667d32950979023b534f1deb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538941915047,
+            "changeTime": 1538941915047,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/EndDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/EndDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1538941915047,
+            "changeTime": 1538941915047,
+            "contentHash": "4eb1e112b03a87b8b7c7ab3f24d9dbcdcf7a6570",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ListPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ListPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 151,
+            "modifiedTime": 1538941915048,
+            "changeTime": 1538941915048,
+            "contentHash": "6b7f65265769d828da99c68c292617b2fd033779",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/OrderId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/OrderId.field-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1538941915048,
+            "changeTime": 1538941915048,
+            "contentHash": "3587fb07b3da0b1a63914e901f788c97ea046a21",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/OriginalOrderItemId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/OriginalOrderItemId.field-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1538941915048,
+            "changeTime": 1538941915048,
+            "contentHash": "29139deb781f155fe6e5724256e04d52cb095c31",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Product2Id.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1538941915049,
+            "changeTime": 1538941915049,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ProductCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941915049,
+            "changeTime": 1538941915049,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Quantity.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/Quantity.field-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1538941915050,
+            "changeTime": 1538941915050,
+            "contentHash": "77dc25ea3c52ebbff3421c0fbea04f9ed81e777d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ServiceDate.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/ServiceDate.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538941915050,
+            "changeTime": 1538941915050,
+            "contentHash": "c41ca3691780517763b61cbe22fe0c8f0d30e1e4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/TotalPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/TotalPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 152,
+            "modifiedTime": 1538941915051,
+            "changeTime": 1538941915051,
+            "contentHash": "aa06683ac2730c73468b20024034ec8731759bc6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/UnitPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/OrderItem/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1538941915051,
+            "changeTime": 1538941915051,
+            "contentHash": "33e835a5cfcf789bbdcd621761a45d2441c7ddbd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941915073,
+            "changeTime": 1538941915073,
+            "contentHash": "3589b114fe31ab9198377b8c9ccf46f72e2a142b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/Pricebook2.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/Pricebook2.object-meta.xml",
+            "isDirectory": false,
+            "size": 2845,
+            "modifiedTime": 1538941915072,
+            "changeTime": 1538941915072,
+            "contentHash": "e3c522f5f1182323e378637a8d35cb150dbf6ef5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538941915074,
+            "changeTime": 1538941915074,
+            "contentHash": "e812a5362f4206846e65d5641cc88d2fa4b41b43",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538941915073,
+            "changeTime": 1538941915073,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/IsActive.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1538941915073,
+            "changeTime": 1538941915073,
+            "contentHash": "e25f6e4daad679da99c7f1cb16fcd3a058ea44f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/IsStandard.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/IsStandard.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1538941915074,
+            "changeTime": 1538941915074,
+            "contentHash": "989a7c2e4a0cc59496ac31bc9079bf9c41e962d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Pricebook2/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1538941915074,
+            "changeTime": 1538941915074,
+            "contentHash": "b5759a4781bf622ab9220d3571a379926922d3b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1538941915081,
+            "changeTime": 1538941915081,
+            "contentHash": "baa16144c7383f99af34a8d5237e7d881dcf3dfa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/PricebookEntry.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/PricebookEntry.object-meta.xml",
+            "isDirectory": false,
+            "size": 1572,
+            "modifiedTime": 1538941915080,
+            "changeTime": 1538941915080,
+            "contentHash": "f20c3a889c7849c77f71ad7527fc06e5a035606d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1538941915083,
+            "changeTime": 1538941915083,
+            "contentHash": "9aaf7197bdb7538c692fe24e75f83e2b454d7dec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/IsActive.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "size": 150,
+            "modifiedTime": 1538941915081,
+            "changeTime": 1538941915081,
+            "contentHash": "2c178b820edc4ceb5a07e6596964d1cbc0787c38",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/Pricebook2Id.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1538941915081,
+            "changeTime": 1538941915081,
+            "contentHash": "540f9d363b4ec16c8fef7022f28219e476132e51",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/Product2Id.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1538941915081,
+            "changeTime": 1538941915081,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/ProductCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 153,
+            "modifiedTime": 1538941915082,
+            "changeTime": 1538941915082,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/StandardPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/StandardPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1538941915082,
+            "changeTime": 1538941915082,
+            "contentHash": "87da4144f1bde9bcae84cb801450880f123ae68b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/UnitPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 151,
+            "modifiedTime": 1538941915083,
+            "changeTime": 1538941915083,
+            "contentHash": "9cba5268d3bcb288cf9c46632e8a7de63a569746",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/UseStandardPrice.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/PricebookEntry/fields/UseStandardPrice.field-meta.xml",
+            "isDirectory": false,
+            "size": 158,
+            "modifiedTime": 1538941915083,
+            "changeTime": 1538941915083,
+            "contentHash": "261bb7978fcdfb83b4d28e51fb63274b66b7610f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1538955424352,
+            "changeTime": 1538955424352,
+            "contentHash": "89596493cb6ea24dc464c9e1239d188f0c017fdb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/Product2.object-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/Product2.object-meta.xml",
+            "isDirectory": false,
+            "size": 2988,
+            "modifiedTime": 1538955562807,
+            "changeTime": 1538955562807,
+            "contentHash": "11f38446d8051413b86eff6d6e7a0d3890b6bd48",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields",
+            "isDirectory": true,
+            "size": 480,
+            "modifiedTime": 1538941915102,
+            "changeTime": 1538941915102,
+            "contentHash": "b4ed1b0d613a88283bda8ff418504537d65f7447",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Description.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538941915097,
+            "changeTime": 1538941915097,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/DisplayUrl.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/DisplayUrl.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1538941915098,
+            "changeTime": 1538941915098,
+            "contentHash": "6af155abe150e242288b6e65a5f7a56045ac52b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ExternalDataSourceId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ExternalDataSourceId.field-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1538941915098,
+            "changeTime": 1538941915098,
+            "contentHash": "6ebd0826fa1bb88e40aca692a4ae8519a225fcc0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ExternalId.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ExternalId.field-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1538941915098,
+            "changeTime": 1538941915098,
+            "contentHash": "8e1df1cf9a5d66a338ff6e6346865a99618a02d8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Family.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Family.field-meta.xml",
+            "isDirectory": false,
+            "size": 213,
+            "modifiedTime": 1538941915099,
+            "changeTime": 1538941915099,
+            "contentHash": "5fee292bd715e8d2a5af841836fa835bf3d53f94",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Initial_Inventory__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Initial_Inventory__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1538941915099,
+            "changeTime": 1538941915099,
+            "contentHash": "cbbfed6edb2d3d0521e9caba153b716bdf89f24b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/IsActive.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "size": 189,
+            "modifiedTime": 1538941915100,
+            "changeTime": 1538941915100,
+            "contentHash": "e25f6e4daad679da99c7f1cb16fcd3a058ea44f0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Name.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1538941915100,
+            "changeTime": 1538941915100,
+            "contentHash": "b5759a4781bf622ab9220d3571a379926922d3b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ProductCode.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1538941915101,
+            "changeTime": 1538941915101,
+            "contentHash": "a639bf60c372267ad5a7f67b32204b9490b8f4fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/QuantityUnitOfMeasure.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/QuantityUnitOfMeasure.field-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1538941915101,
+            "changeTime": 1538941915101,
+            "contentHash": "dbda9d4895af156567efa72c319bcb7526e9b03d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Quantity_Ordered__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Quantity_Ordered__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1538941915102,
+            "changeTime": 1538941915102,
+            "contentHash": "3c823536b782def420f3aa61c6a380c30b12c7d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Quantity_Remaining__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/Quantity_Remaining__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 535,
+            "modifiedTime": 1538941915102,
+            "changeTime": 1538941915102,
+            "contentHash": "d50577613058f947882f9b07766f6c6c2dd421e6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/StockKeepingUnit.field-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/fields/StockKeepingUnit.field-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1538941915103,
+            "changeTime": 1538941915103,
+            "contentHash": "2973761c0d09d1cd64c8c179fb1d57a301b7e21e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/listViews",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1538941915103,
+            "changeTime": 1538941915103,
+            "contentHash": "f8e1342d1589fe70c5d508e37f686c1d65522bc8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/listViews/AllProducts.listView-meta.xml",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/objects/Product2/listViews/AllProducts.listView-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1538941915103,
+            "changeTime": 1538941915103,
+            "contentHash": "83e3752c18a8b98206c37df6b5917eca28e9be89",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork",
+        {
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1538943972690,
+            "changeTime": 1538943972690,
+            "contentHash": "8bef7fd527bf6afb3a48564d350bbf36b5c81b56",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 672,
+            "modifiedTime": 1538954886751,
+            "changeTime": 1538957460255,
+            "contentHash": "7e3a11b18f5be505a460425dd888c23b55b79ed8"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/ChartHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/ChartHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1159,
+            "modifiedTime": 1538957386272,
+            "changeTime": 1538957386272,
+            "contentHash": "d9563b020bf067ab3420fc50dae261969269b3c4"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/ChartHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/ChartHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913753,
+            "changeTime": 1538955257082,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Constants.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Constants.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 845,
+            "modifiedTime": 1538941913757,
+            "changeTime": 1538955257085,
+            "contentHash": "d48db38aa712efbbe2e035befd4bad4a3239af11"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Constants.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Constants.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913756,
+            "changeTime": 1538955257088,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderExtension.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderExtension.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3042,
+            "modifiedTime": 1538941913761,
+            "changeTime": 1538955257083,
+            "contentHash": "5abdaa201da2dc877c12971737d6e458f4b68935"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderExtension.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderExtension.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913760,
+            "changeTime": 1538955257076,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2591,
+            "modifiedTime": 1538941913764,
+            "changeTime": 1538955257075,
+            "contentHash": "518292a53d6a2d7a121877d536f5f823e946e54f"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913763,
+            "changeTime": 1538955257070,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderTests.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderTests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 78,
+            "modifiedTime": 1538941913767,
+            "changeTime": 1538955257084,
+            "contentHash": "3ce90d45014e8ddd35d464d26771a109445e5258"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderTests.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/OrderTests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913766,
+            "changeTime": 1538955257081,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Extension.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Extension.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3108,
+            "modifiedTime": 1538941913771,
+            "changeTime": 1538955257073,
+            "contentHash": "e473ef6f362b2184f56bdeb2da89c865c5d0ceec"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Extension.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Extension.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913770,
+            "changeTime": 1538955257079,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Helper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Helper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1980,
+            "modifiedTime": 1538941913774,
+            "changeTime": 1538955257071,
+            "contentHash": "ad74d6a78e1d83c8c18146aeb4393577f51861f3"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Helper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Helper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913773,
+            "changeTime": 1538955257083,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Tests.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Tests.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1538957166882,
+            "changeTime": 1538957166882,
+            "contentHash": "0694e4edeb71569af2d956afa3d673ce6e3409d6"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Tests.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/Product2Tests.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913777,
+            "changeTime": 1538957130179,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/TestDataFactory.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/TestDataFactory.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4262,
+            "modifiedTime": 1538941913782,
+            "changeTime": 1538955257080,
+            "contentHash": "1636e9ea8b86a68dbf0acadc37d3e52a6f81ca8d"
+        }
+    ],
+    [
+        "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/TestDataFactory.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/susannahplaster/projects/advancedApex/mywork/force-app/main/default/classes/TestDataFactory.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538941913780,
+            "changeTime": 1538955257078,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb"
+        }
+    ]
+]
