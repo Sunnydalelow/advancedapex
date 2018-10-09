@@ -1,4 +1,16 @@
 [
+
+    {
+        "sobject": "Pricebook2",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Pricebook2s.json"
+        ]
+    },
+
+
+
     {
         "sobject": "Product2",
         "saveRefs": true,
